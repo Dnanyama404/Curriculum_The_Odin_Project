@@ -1,0 +1,46 @@
+.flex-conteiner {
+    display: flex;
+}
+
+
+/* Este selector seleciona todas as divs dentro do .flex-container*/
+
+.flex-conteiner div {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+    flex: 1 1 0%;
+}
+
+.flex-conteiner .dois {
+    flex: 2 1 0%;
+}
+
+#flex-container {
+    display: flex;
+}
+
+#flex-container div {
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 100px;
+    width: 250px;
+    flex: 1 1 auto;
+}
+
+#flex-container .cinco {
+    flex-shrink: 0;
+}
+
+
+/* Esta área alinha o textos da class "title" ao centro e coloca a cor castanha*/
+
+.title {
+    text-align: center;
+    color: brown;
+}
+
+.paragrafo {
+    text-align: center;
+    font-style: italic;
+}
