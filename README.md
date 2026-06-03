@@ -28,3 +28,7 @@ Para o dia de hoje: 02:06:2026, estudei mais sobre flexBox, os conteúdos foram:
     |---------------------|
 
 E Assim finalizei o dia 02:06:2026.
+
+Nova Atualização: Data: 03:06:2026;
+
+Hoje, o conteúdo também foi sobre flexbox, a lição tratou sobre alinhamentos, como mover de forma "Livre" os meus itens dento de um container. tivemos alguns exercícios práticos que terás a oportunidade de verificar na Pasta 1.4 - FlexBox - Alinhamento. See you next time!
