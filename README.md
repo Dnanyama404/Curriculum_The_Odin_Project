@@ -36,3 +36,7 @@ Hoje, o conteúdo também foi sobre flexbox, a lição tratou sobre alinhamentos
 Data: 04:06:2026;
 
 Yoh, após todo conteúdo sobre FlexBox, chegamos ao primeiro projeto que envolve HTML e CSS, exibindo o conceito de flexBox, a nossa missão é criar uma lading page, com 4/5 com cores e conteúdos diferentes, ainda não finalizei, estou atualizando o dia de hoje. See you!
+
+Data: 05:06:2026;
+
+Nova atualização, finalizamos o projeto da Landing Page com sucesso, subi algumas imagens no repositório para conseguirem ver a tarefa, e como eu fiz.
