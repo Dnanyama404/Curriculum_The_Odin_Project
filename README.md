@@ -40,3 +40,7 @@ Yoh, após todo conteúdo sobre FlexBox, chegamos ao primeiro projeto que envolv
 Data: 05:06:2026;
 
 Nova atualização, finalizamos o projeto da Landing Page com sucesso, subi algumas imagens no repositório para conseguirem ver a tarefa, e como eu fiz.
+
+Data: 08:06:2026
+
+Hoje tivemos a primeira aula de JavaScritp, falamos sobre alguns comandos básicos, assim, entramos na 3ª etapa do currículo no meu modelo organizacional.
