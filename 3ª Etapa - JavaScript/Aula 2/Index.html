@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="Pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 2</title>
+</head>
+
+<body>
+    <h1 style="text-align: center;"> Aula 2 - Funções em JavaScript:</h1>
+
+    <p style="text-align: center; font-style: oblique;">Clique no botão direito do mouse e depois em "Inspect</p>
+    <p style="text-align: center;">Depois, Procure "Console", aí você poderá ver o código.</p>
+    <p style="text-align: center;">Tarefa 1: <br> Criar uma função chamda adicionar7, ela é responsável por adicionar + 7 ao número que for passado como parâmetro.</p>
+    <p style="text-align: center;">Tarefa 2: <br> Criar uma função chamda Multiplicar, ela inicialmente irá receber 2 parâmentros e irá multiplicar e exibir o resultado.</p>
+    <p style="text-align: center;">Tarefa 3: <br> Criar uma função chamada Capitalizar, ela retorna uma string com a primeira letra Maiúscula .</p>
+
+
+    <script>
+        function pessoafavorita(pessoa) {
+            return pessoa + " É a minha pessoa favorita!";
+        }
+
+        const mensagem = pessoafavorita('Tayamo');
+        console.log(mensagem);
+
+        function adicionar7(number) {
+            return number + 7
+        }
+
+        console.log((adicionar7(10)));
+
+        function multiplicar(number1, number2) {
+            return (number1 * number2);
+        }
+
+        console.log((multiplicar(10, 3)));
+
+        function capitalize(str) {
+            return str[0].toUpperCase() + str.slice(1).toLowerCase();
+        }
+        console.log(capitalize("heLlo"));
+    </script>
+
+</body>
+
+</html>

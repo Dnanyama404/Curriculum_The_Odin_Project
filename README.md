@@ -44,3 +44,42 @@ Nova atualização, finalizamos o projeto da Landing Page com sucesso, subi algu
 Data: 08:06:2026
 
 Hoje tivemos a primeira aula de JavaScritp, falamos sobre alguns comandos básicos, assim, entramos na 3ª etapa do currículo no meu modelo organizacional.
+
+Data: 10:06:2026
+
+Hoje, aprendemos sobre funções em JavaScript, ainda preciso focar, então farei alguns exercícios antes de ir para a próxima fase, quero dominar bem essa fase:
+
+                - O que fiz hoje:
+
+                Aula 2 - Funções em JavaScript:
+    
+    - Tarefa 1: Criar uma função chamda adicionar7, ela é responsável por adicionar + 7 ao número que for passado como parâmetro.
+    - Tarefa 2: Criar uma função chamda Multiplicar, ela inicialmente irá receber 2 parâmentros e irá multiplicar e exibir o resultado.
+    - Tarefa 3: Criar uma função chamada Capitalizar, ela retorna uma string com a primeira letra Maiúscula.
+
+
+    <script>
+        function pessoafavorita(pessoa) {
+            return pessoa + " É a minha pessoa favorita!";
+        }
+
+        const mensagem = pessoafavorita('Tayamo');
+        console.log(mensagem); // Tayamo É a minha pessoa favorita!
+
+        function adicionar7(number) {
+            return number + 7
+        }
+
+        console.log((adicionar7(10))); // 17
+
+        function multiplicar(number1, number2) {
+            return (number1 * number2);
+        }
+
+        console.log((multiplicar(10, 3))); // 30
+
+        function capitalize(str) {
+            return str[0].toUpperCase() + str.slice(1).toLowerCase();
+        }
+        console.log(capitalize("heLlo")); // Hello
+    </script>
