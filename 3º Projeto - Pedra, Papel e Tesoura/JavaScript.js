@@ -18,6 +18,20 @@ function escolha_do_computador() {
 // Executa a função para testar
 escolha_do_computador();
 
+//-------------------------------------------------------------
 function escolha_humana() {
+    let option = window.prompt(
+        "Insira a sua escolha: 0 = Pedra, 1 = Papel ou 2 = Tesoura"
+    );
 
+    // prompt retorna string; converter para número
+    option = Number(option);
+
+    if (Number.isNaN(option)) {
+        console.log("Escolha inválida: não é um número.");
+        return;
+    }
+
+    console.log("Você escolheu: " + escolha(option));
+    return option;
 }

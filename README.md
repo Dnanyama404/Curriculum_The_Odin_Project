@@ -87,3 +87,7 @@ Hoje, aprendemos sobre funções em JavaScript, ainda preciso focar, então fare
     Data: 08:07:2026
 
     Hoje, depois de muito tempo, estive a mexer um pouco no tercerio projeto daqui do curso, consegui finalizar a função que será responsável por fazer a escolha aleatória do computador, será um jogo de pedra, papel e tesoura.
+
+    Data: 11:07:2026
+
+    Hoje consegui criar a funcão para os Humanos puderem escolher entre, pedra, papel ou tesoura, a cada dia procuro realizar uma tarefa, mas sinto que preciso estudar mais sobre, me falta algum conhecimento.
