@@ -91,3 +91,7 @@ Hoje, aprendemos sobre funções em JavaScript, ainda preciso focar, então fare
     Data: 11:07:2026
 
     Hoje consegui criar a funcão para os Humanos puderem escolher entre, pedra, papel ou tesoura, a cada dia procuro realizar uma tarefa, mas sinto que preciso estudar mais sobre, me falta algum conhecimento.
+
+    Data: 13:07:2026
+
+    - Hoje terminei o jogo todo, fiz também a parte com interface, sim, desobedici o que me foi mandado pelo curso e acabei estudando coisas de níveis mais avançados, mas eu quis fazer algo interativo para que vocês possam jogar, espero que esteja bom para vocês.
